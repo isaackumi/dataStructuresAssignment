@@ -1,0 +1,9 @@
+public class Person {
+  private String name;
+  private int age;
+  private enum gender["Male","Female"];
+  public Person() { 
+    
+  }
+ 
+}
